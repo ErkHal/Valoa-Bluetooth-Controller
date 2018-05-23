@@ -1,4 +1,4 @@
-## Led Controller
+## Valoa Controller
 
 Made to control a hacked IKEA Ledberg LED strip.
 
